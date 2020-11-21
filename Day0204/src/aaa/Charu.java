@@ -6,7 +6,7 @@ public class Charu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] a = {12,43,22,45,21,23,76,1,5,34,32,123,19,8,563,111};
+		int[] a = {12,43,22,45,21,23,76,1,5,34,32,123,19,8,563,111,33};
 		charu(a);
 		
 		
